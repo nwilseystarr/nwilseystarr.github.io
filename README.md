@@ -1,1 +1,1 @@
-# Bootstrap-Portfolio
+Portfolio made responsive with Bootstrap
