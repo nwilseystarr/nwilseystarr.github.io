@@ -133,6 +133,8 @@ h2{
     font-size: 12px;
     font-weight: 700;
     color:#4aaaa5;
+    background-color: white;
+    padding: 5px;
 }
 
 .image{
@@ -166,9 +168,6 @@ footer{
     height: 50px;
     text-align: center;
 }
-
-/*Sticky Footer*/
-/*Works on every page except the portfolio page*/
 
 html,
 body {
